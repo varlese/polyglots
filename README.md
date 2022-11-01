@@ -1,2 +1,2 @@
 # Polyglots Workspace 
-Testing Github to organize and coordinate on Polyglots team efforts. 
+Testing workspace to organize and coordinate on Polyglots team projects. 
